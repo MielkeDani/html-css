@@ -51,10 +51,11 @@ nav a:hover {
     border-style:solid ;
     border-width:3px ;
     border-radius: 10px;
+	height: auto;
 }
 
 .produtos li:hover h2 { 
-	font-size: 34px;
+	font-size: 26px;
 }
 
 .produtos li:hover{ 
@@ -66,7 +67,7 @@ nav a:hover {
 }
 
 .produtos h2 {
-	font-size: 30px;
+	font-size: 24px;
 	font-weight: bold;
 }
 
@@ -87,6 +88,7 @@ footer {
 }
 
 .copyright { 
+	text-align: center;
 	color: #fff;
 	font-size: 13px;
 	margin: 20px 0 0 ; 

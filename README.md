@@ -4,11 +4,9 @@
 Olá 
 
 Apresento vocês projeto de web usando práticas de html e css. 
-Estou fazendo a formação front-end da Alura, já realizei dois cursos do HTML-CSS criando as páginas da Barbearia Alura. 
+Estou fazendo a formação front-end da Alura, já realizei dois cursos do HTML-CSS criando as páginas da Barbearia Alura, criando duas páginas e usei as aulas do segundo curso, para refazer a primeira. 
 
-Já finalizei o segundo curso, criando duas páginas e usei as aulas do segundo curso, para refazer a primeira. 
-
-Sei que ainda tenho muito para melhorar, mas compartilho com vcs estas esperiências. 
+Sei que ainda tenho muito para melhorar, mas compartilho com vocês estas esperiências. 
 
 https://mielkedani.github.io/html-css/index.html 
 
